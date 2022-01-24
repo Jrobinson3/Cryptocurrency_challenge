@@ -15,5 +15,6 @@ In deliverable 4, create a table with tradable cryptocurrencies using the hvplo
 ![image](https://github.com/Jrobinson3/Cryptocurrency_challenge/blob/main/tradablecrypto_table.png)
 
 Additionally, the 3D scatter plot was not printed in the crypto_clustering.ipynb.  See below image:
+
 ![image](https://github.com/Jrobinson3/Cryptocurrency_challenge/blob/main/3D-scatter.png)
 
